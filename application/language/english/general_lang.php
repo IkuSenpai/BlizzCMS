@@ -91,9 +91,9 @@ $lang['button_buying'] = 'Continue Buying';
 
 /*Alert Lang*/
 $lang['alert_successful_purchase'] = 'Item purchased successfully.';
-$lang['alert_upload_error'] = 'Your image must be in jpg or png format';
-$lang['alert_changelog_not_found'] = 'The server does not have changelogs to inform at this time';
-$lang['alert_points_insufficient'] = 'Insufficient points';
+$lang['alert_upload_error'] = 'Your image must be in JPG or PNG format.';
+$lang['alert_changelog_not_found'] = 'The server does not have changelogs to inform at this time.';
+$lang['alert_points_insufficient'] = 'Insufficient points.';
 
 /*Status Lang*/
 $lang['offline'] = 'Offline';
@@ -200,7 +200,7 @@ $lang['race_maghar_orc'] = 'Maghar Orc';
 $lang['race_vulpera'] = 'Vulpera';
 
 /*Header Lang*/
-$lang['header_cookie_message'] = 'This website uses cookies to ensure you get the best experience on our website. ';
+$lang['header_cookie_message'] = 'This website uses cookies to ensure you get the best experience on our website.';
 $lang['header_cookie_button'] = 'Got it!';
 
 /*Footer Lang*/
@@ -208,7 +208,7 @@ $lang['footer_rights'] = 'All rights reserved.';
 
 /*Page 404 Lang*/
 $lang['page_404_title'] = '404 Page not found';
-$lang['page_404_description'] = 'It looks like the page you are looking could not be found';
+$lang['page_404_description'] = 'It looks like the page you are looking for could not be found.';
 
 /*Panel Lang*/
 $lang['panel_acc_rank'] = 'Account Rank';
